@@ -9,7 +9,7 @@ namespace examen01_ti_gamez_rodriguez.RRGPServices
 {
     public class RRGPVolumeCalculator
     {
-        public double Calutate()
+        public double Calculate(RRGPVolume shape) => shape.RRGPCalculateVolume();
 
 
     }

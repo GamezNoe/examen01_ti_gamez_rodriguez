@@ -8,6 +8,6 @@ namespace examen01_ti_gamez_rodriguez.RRGPInterfaces
 {
     public interface RRGPVolume
     {
-        double RRGPCalculateArea();
+        double RRGPCalculateVolume();
     }
 }

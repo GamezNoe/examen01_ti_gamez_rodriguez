@@ -14,6 +14,6 @@ namespace examen01_ti_gamez_rodriguez.RRGPModels
 
         public double RRGPCalculateArea() => 4 * Math.PI * radius*radius;
 
-        public double CalculateVolume() => (4/3) *Math.PI*Math.Pow(radius,3);
+        public double RRGPCalculateVolume() => (4/3) *Math.PI*Math.Pow(radius,3);
     }
 }
